@@ -1,4 +1,4 @@
-# Flipkart-Sales-Performance-Analysis-and-Business-Insights
+# Flipkart Data Analytics: Customer Behavior, Sales Performance, and Business Insights
 End-to-end data analytics project analyzing Flipkart sales performance, customer behavior, and business insights using Python, SQL, and Power BI.
 
 📖 Project Overview
@@ -125,7 +125,7 @@ SQL Business Analysis
 Customer Segmentation (RFM)
       │
       ▼
-Power BI Dashboard (In Progress)
+Power BI Dashboard 
       │
       ▼
 Sales Forecasting (Planned)
@@ -139,7 +139,7 @@ Business Recommendations
 # 📁 Repository Structure
 
 ```text
-Flipkart-Business-Analytics/
+Flipkart-Data-Analytics/
 │
 ├── 📂 datasets/
 │   ├── Customers.csv
@@ -165,12 +165,13 @@ Flipkart-Business-Analytics/
 │   └── SQL_Questions.sql
 │
 ├── 📂 powerbi/
-│   └── Flipkart_Dashboard.pbix (In progress*)
-│
-├── 📂 images/
-│   ├── workflow.png
-│   ├── dashboard.png
-│   └── eda/
+│   └── Flipkart_Customer_360_Analytics.pbix
+│   └── dashboard_screenshots/
+│       ├── overview.png
+│       ├── customer_analysis.png
+│       ├── product_and_category_analysis.png
+│       ├── reviews_and_returns.png
+│       ├── recommendations.png 
 │
 ├── README.md
 ├── requirements.txt
